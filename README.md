@@ -29,8 +29,10 @@ END
 ```
 
 ## OUTPUT
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ac8bf99c-11d3-4533-b0f2-c166d058d35e" />
 
+<img width="536" height="324" alt="511744277-a50b3e78-bb39-4728-8950-871c1182b5cc" src="https://github.com/user-attachments/assets/99999b5f-da24-45d2-8af2-11e65944959f" />
+
+![WhatsApp Image 2025-11-16 at 13 36 55_65db438a](https://github.com/user-attachments/assets/9fab98df-a0c1-437e-9fb5-30243116b37e)
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
@@ -67,7 +69,10 @@ END
 
 
 ## OUTPUT
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8a774588-d417-47e3-8327-d3246c8d43b2" />
+
+<img width="439" height="320" alt="511744606-40449533-5a80-445b-84c1-e3461d7cd15b" src="https://github.com/user-attachments/assets/9bc85108-ecf5-4550-a02f-656a02d4be0e" />
+
+![WhatsApp Image 2025-11-16 at 13 38 34_c06a54ef](https://github.com/user-attachments/assets/7658037a-3856-4f42-9d84-cee8a65ec653)
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
